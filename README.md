@@ -14,3 +14,12 @@ The x-axis represents the percentage while the y-axis shows the various developm
 ---
 
 ## 2. Observation -I
+I found some people claiming that since a decent number of women have become educated, it is now time to scrap women's quotas. To test this, I compared the state of men & women among Literates and Illiterates as can be seen below:
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/incorrectPlotPithoragarh.png "Literacy & Illiteracy Plot for District Pithoragarh")
+
+We observe that among the literates, the difference between men and women isn't much. But as we dive into the realm of illiterates, we find that illiterate women are almost double in number than illiterate men.
+And friends, this is how **Sample Selection Bias** fools us. People who advocate removing special provisions for women only focus on the sample of literate men & women. But once the sample changes to illiterates, the truth comes forefront.
+---
+
+## 3. Observation -II
