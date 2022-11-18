@@ -33,7 +33,7 @@ Compare the following two graphs from Kumaon Division:
 
 You may observe a sharp disparity between illiterate men & women in all development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
 
-"The illiterate women in Himalayan districts are twice in number than illiterate men. Districts with parts of the northern plains in them fare better comparatively."
+> "The illiterate women in Himalayan districts are twice in number than illiterate men. Districts with parts of the northern plains in them fare better comparatively."
 
 A similar observation can be made for Garhwal Division as well:
 
