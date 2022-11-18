@@ -23,3 +23,24 @@ And friends, this is how **Sample Selection Bias** fools us. People who advocate
 ---
 
 ## 3. Observation -II
+Compare the following two graphs from Kumaon Division:
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/incorrectPlotPithoragarh.png "Literacy & Illiteracy Plot for District Pithoragarh")
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/incorrectPlotPithoragarh.png "Literacy & Illiteracy Plot for District Udham Singh Nagar")
+
+You may observe a sharp disparity between illiterate men & women in all development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
+
+"The illiterate women in Himalayan districts are twice in number than illiterate men. Districts with parts of the northern plains in them fare better comparatively."
+
+A similar observation can be made for Garhwal Division as well:
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/7_Uttarkashi.png "Literacy & Illiteracy Plot for District Uttarkashi")
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/13_Haridwar.png "Literacy & Illiteracy Plot for District Haridwar")
+
+Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
+This shall be determined as we thoroughly analyze relevant data in this regard.
+---
+
+## 4. Conclusion
+From data-based observations made through sections (2) and (3), it is evident that the Uttarakhand Government's and the Supreme Court's decision in favor of special provisions for women with state domicile was correct.
+---
