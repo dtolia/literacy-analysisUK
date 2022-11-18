@@ -49,3 +49,33 @@ This shall be determined as we thoroughly analyze relevant data in this regard.
 From data-based observations made through sections (2) and (3), it is evident that the Uttarakhand Government's and the Supreme Court's decision in favor of special provisions for women with state domicile was correct.
 
 ---
+
+### <details><summary>See All Charts</summary>
+<p>
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/2_Bageshwar.png "Literacy & Illiteracy Plot for District Bageshwar")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/3_Almora.png "Literacy & Illiteracy Plot for District Almora")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/4_Champawat.png "Literacy & Illiteracy Plot for District Champawat")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/5_Nainital.png "Literacy & Illiteracy Plot for District Nainital")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Literacy & Illiteracy Plot for District Udham Singh Nagar")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/7_Uttarkashi.png "Literacy & Illiteracy Plot for District Uttarkashi")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/9_Tehri.png "Literacy & Illiteracy Plot for District Tehri")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/10_Rudraprayag.png "Literacy & Illiteracy Plot for District Rudraprayag")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/11_Dehradun.png "Literacy & Illiteracy Plot for District Dehradun")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/12_Pauri.png "Literacy & Illiteracy Plot for District Pauri")
+
+![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/13_Haridwar.png "Literacy & Illiteracy Plot for District Haridwar")
+
+</p>
+</details>
+
+---
