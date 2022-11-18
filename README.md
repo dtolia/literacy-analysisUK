@@ -3,6 +3,7 @@
 The Supreme Court on 4th November 2022 lifted the stay imposed by the Uttarakhand High Court on a 2006 order giving 30% reservation to women having domicile of the state in state civil services. The analysis below tries to determine whether the decision was correct given the state of literacy in Uttarakhand.
 
 (Do note that this data is provided by [Open Government Data (OGD) Platform India](https://data.gov.in/) which contains pre-cleaned excel sheets. Thus, data cleaning wasn't required here.)
+
 ---
 
 ## 1. Basics
@@ -11,6 +12,7 @@ The charts for each district showcase two horizontal bar graphs:
 * Second, for illiterate men and women. 
 
 The x-axis represents the percentage while the y-axis shows the various development blocks in the district.
+
 ---
 
 ## 2. Observation -I
@@ -20,6 +22,7 @@ I found some people claiming that since a decent number of women have become edu
 
 We observe that among the literates, the difference between men and women isn't much. But as we dive into the realm of illiterates, we find that illiterate women are almost double in number than illiterate men.
 And friends, this is how **Sample Selection Bias** fools us. People who advocate removing special provisions for women only focus on the sample of literate men & women. But once the sample changes to illiterates, the truth comes forefront.
+
 ---
 
 ## 3. Observation -II
@@ -39,8 +42,10 @@ A similar observation can be made for Garhwal Division as well:
 
 Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
 This shall be determined as we thoroughly analyze relevant data in this regard.
+
 ---
 
 ## 4. Conclusion
 From data-based observations made through sections (2) and (3), it is evident that the Uttarakhand Government's and the Supreme Court's decision in favor of special provisions for women with state domicile was correct.
+
 ---
