@@ -61,9 +61,7 @@ From data-based observations made through sections (2) and (3), it is evident th
 
 ![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/5_Nainital.png "Literacy & Illiteracy Plot for District Nainital")
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Literacy & Illiteracy Plot for District Udham Singh Nagar")
-
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/7_Uttarkashi.png "Literacy & Illiteracy Plot for District Uttarkashi")
+![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/8_Chamoli.png "Literacy & Illiteracy Plot for District Chamoli")
 
 ![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/9_Tehri.png "Literacy & Illiteracy Plot for District Tehri")
 
@@ -72,8 +70,6 @@ From data-based observations made through sections (2) and (3), it is evident th
 ![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/11_Dehradun.png "Literacy & Illiteracy Plot for District Dehradun")
 
 ![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/12_Pauri.png "Literacy & Illiteracy Plot for District Pauri")
-
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/13_Haridwar.png "Literacy & Illiteracy Plot for District Haridwar")
 
 </p>
 </details>
