@@ -50,7 +50,7 @@ From data-based observations made through sections (2) and (3), it is evident th
 
 ---
 
-### <details><summary>See All Charts</summary>
+<details><summary>See All Charts</summary>
 <p>
 
 ![alt text](https://github.com/dtolia/nonworker-analysisUK/blob/main/charts/2_Bageshwar.png "Literacy & Illiteracy Plot for District Bageshwar")
