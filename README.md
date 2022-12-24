@@ -28,8 +28,8 @@ And friends, this is how **Sample Selection Bias** fools us. People who advocate
 ## 3. Observation -II
 Compare the following two graphs from Kumaon Division:
 
-![Literacy & Illiteracy Plot for District Pithoragarh](/charts/1_Pithoragarh.png)
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/6_UdhamSinghNagar.png "Literacy & Illiteracy Plot for District Udham Singh Nagar")
+![Literacy & Illiteracy Plot for District Pithoragarh](charts/1_Pithoragarh.png)
+![Literacy & Illiteracy Plot for District Udham Singh Nagar](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/6_UdhamSinghNagar.png)
 
 You may observe a sharp disparity between illiterate men & women in all development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
 
