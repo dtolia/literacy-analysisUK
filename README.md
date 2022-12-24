@@ -59,17 +59,17 @@ From data-based observations made through sections (2) and (3), it is evident th
 
 ![Literacy & Illiteracy Plot for District Champawat](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/4_Champawat.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/5_Nainital.png "Literacy & Illiteracy Plot for District Nainital")
+![Literacy & Illiteracy Plot for District Nainital](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/5_Nainital.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/8_Chamoli.png "Literacy & Illiteracy Plot for District Chamoli")
+![Literacy & Illiteracy Plot for District Chamoli](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/8_Chamoli.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/9_Tehri.png "Literacy & Illiteracy Plot for District Tehri")
+![Literacy & Illiteracy Plot for District Tehri](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/9_Tehri.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/10_Rudraprayag.png "Literacy & Illiteracy Plot for District Rudraprayag")
+![Literacy & Illiteracy Plot for District Rudraprayag](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/10_Rudraprayag.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/11_Dehradun.png "Literacy & Illiteracy Plot for District Dehradun")
+![Literacy & Illiteracy Plot for District Dehradun](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/11_Dehradun.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/12_Pauri.png "Literacy & Illiteracy Plot for District Pauri")
+![Literacy & Illiteracy Plot for District Pauri](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/12_Pauri.png)
 
 </p>
 </details>
