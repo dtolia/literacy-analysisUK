@@ -18,7 +18,7 @@ The x-axis represents the percentage while the y-axis shows the various developm
 ## 2. Observation -I
 I found some people claiming that since a decent number of women have become educated, it is now time to scrap women's quotas. To test this, I compared the state of men & women among Literates and Illiterates as can be seen below:
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/1_Pithoragarh.png "Literacy & Illiteracy Plot for District Pithoragarh")
+![Literacy & Illiteracy Plot for District Pithoragarh](charts/1_Pithoragarh.png)
 
 We observe that among the literates, the difference between men and women isn't much. But as we dive into the realm of illiterates, we find that illiterate women are almost double in number than illiterate men.
 And friends, this is how **Sample Selection Bias** fools us. People who advocate removing special provisions for women only focus on the sample of literate men & women. But once the sample changes to illiterates, the truth comes forefront.
@@ -29,7 +29,7 @@ And friends, this is how **Sample Selection Bias** fools us. People who advocate
 Compare the following two graphs from Kumaon Division:
 
 ![Literacy & Illiteracy Plot for District Pithoragarh](charts/1_Pithoragarh.png)
-![Literacy & Illiteracy Plot for District Udham Singh Nagar](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/6_UdhamSinghNagar.png)
+![Literacy & Illiteracy Plot for District Udham Singh Nagar](charts/6_UdhamSinghNagar.png)
 
 You may observe a sharp disparity between illiterate men & women in all development blocks. But when comparing the Himalayan districts (like Pithoragarh) of Uttarakhand with those that have parts of the northern plains in them (like Udham Singh Nagar), we come across a unique observation:
 
@@ -37,8 +37,8 @@ You may observe a sharp disparity between illiterate men & women in all developm
 
 A similar observation can be made for Garhwal Division as well:
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/7_Uttarkashi.png "Literacy & Illiteracy Plot for District Uttarkashi")
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/13_Haridwar.png "Literacy & Illiteracy Plot for District Haridwar")
+![Literacy & Illiteracy Plot for District Uttarkashi](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/7_Uttarkashi.png)
+![Literacy & Illiteracy Plot for District Haridwar](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/13_Haridwar.png)
 
 Thus, we have a relationship but what can be the cause?! Is it the difference in ethnic culture? The result of exclusionary and unequal urbanization? Or could it be something that we’re completely missing out on!?! 
 This shall be determined as we thoroughly analyze relevant data in this regard.
@@ -53,11 +53,11 @@ From data-based observations made through sections (2) and (3), it is evident th
 <details><summary>See All Charts</summary>
 <p>
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/2_Bageshwar.png "Literacy & Illiteracy Plot for District Bageshwar")
+![Literacy & Illiteracy Plot for District Bageshwar](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/2_Bageshwar.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/3_Almora.png "Literacy & Illiteracy Plot for District Almora")
+![Literacy & Illiteracy Plot for District Almora](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/3_Almora.png)
 
-![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/4_Champawat.png "Literacy & Illiteracy Plot for District Champawat")
+![Literacy & Illiteracy Plot for District Champawat](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/4_Champawat.png)
 
 ![alt text](https://github.com/dtolia/literacy-analysisUK/blob/main/charts/5_Nainital.png "Literacy & Illiteracy Plot for District Nainital")
 
